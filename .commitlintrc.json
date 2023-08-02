@@ -21,6 +21,17 @@
         "revert",
         "style",
         "test",
+        "sample",
+         "chore",
+        "ci",
+        "docs",
+        "feat",
+        "fix",
+        "perf",
+        "refactor",
+        "revert",
+        "style",
+        "test",
         "sample"
       ]
     ],
