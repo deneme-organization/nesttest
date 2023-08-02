@@ -17,6 +17,7 @@
         "feat",
         "fix",
         "perf",
+        "test",
         "refactor",
         "revert",
         "style",
