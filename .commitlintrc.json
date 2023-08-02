@@ -21,6 +21,12 @@
         "revert",
         "style",
         "test",
+        "perf",
+        "refactor",
+        "revert",
+        "style",
+        "test",
+        "sample",
         "sample"
       ]
     ],
