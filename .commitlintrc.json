@@ -30,6 +30,14 @@
         "style",
         "test",
         "sample",
+         "fix",
+        "perf",
+        "refactor",
+        "revert",
+        "style",
+        "test",
+        "sample",
+        "sample",
         "sample"
       ]
     ],
