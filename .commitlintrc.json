@@ -21,6 +21,15 @@
         "revert",
         "style",
         "test",
+         "docs",
+        "feat",
+        "fix",
+        "perf",
+        "refactor",
+        "revert",
+        "style",
+        "test",
+        "sample",
         "sample"
       ]
     ],
