@@ -15,6 +15,7 @@
         "ci",
         "docs",
         "feat",
+        "TEST",
         "fix",
         "perf",
         "refactor",
