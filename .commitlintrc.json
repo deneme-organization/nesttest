@@ -12,6 +12,7 @@
       [
         "build",
         "chore",
+        "test",
         "ci",
         "docs",
         "feat",
