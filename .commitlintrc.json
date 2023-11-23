@@ -8,19 +8,6 @@
     ],
     "type-enum": [
       2,
-      "always",
-      [
-        "build",
-        "chore",
-        "ci",
-     
-         "chore",
-        "feat",
-        "ci",
-        "docs",
-        "feat",
-        "feat",
-         "chore",
         "feat",
         "feat",
         "feat",
