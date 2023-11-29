@@ -10,16 +10,7 @@
       2,
       "always",
       [
-        "build",
-        "ci",
-         "feat",
-         "chore",
-        "ci",
-        "docs",
-        "feat",
-        "feat",
-        "feat",
-        "feat",
+     
         "fix",
         "docs",
         "feat",
