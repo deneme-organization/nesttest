@@ -10,7 +10,6 @@
       2,
       "always",
       [
-        "build",
         "ci",
          "feat",
          "chore",
