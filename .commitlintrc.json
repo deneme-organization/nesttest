@@ -23,7 +23,6 @@
         "perf",
         "refactor",
         "revert",
-        "style",
         "test","docs",
         "feat",
         "fix",
