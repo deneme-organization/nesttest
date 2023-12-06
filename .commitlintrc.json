@@ -18,7 +18,6 @@
 
         "docs",
         "feat",
-        "fix",
         "perf",
         "revert",
         "style",
