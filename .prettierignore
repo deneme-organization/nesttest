@@ -1,3 +1,6 @@
 packages/**/*.d.ts
 packages/**/*.js
 .nyc_output
+test
+testtest
+test
