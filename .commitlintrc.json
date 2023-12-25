@@ -64,6 +64,7 @@
         "feat",
         "fix",
         "perf",
+        "teest2",
         "refactor",
         "revert",
         "style",
