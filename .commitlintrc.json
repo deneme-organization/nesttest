@@ -67,6 +67,10 @@
         "refactor",
         "revert",
         "style",
+        "perf",
+        "refactor",
+        "revert",
+        "style",
         "test",
         "sample",
         "sample"
